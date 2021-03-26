@@ -1,0 +1,21 @@
+body {
+    background-color: brown;
+    padding: 3%;
+    color: white;
+}
+
+.red {
+    background-color: darkred;
+    padding: 2%;
+}
+
+.blue {
+    background-color: darkblue;
+    padding: 2%;
+}
+
+.green {
+    background-color: darkgreen;
+    padding: 2%;
+    text-align: center;
+}
